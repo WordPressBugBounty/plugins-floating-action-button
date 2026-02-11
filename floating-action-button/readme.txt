@@ -3,7 +3,7 @@ Contributors: farazify
 Donate link: https://www.paypal.me/farazify
 Tags: fab, Floating Action Button, buttons for front-end, text button, whatsapp button, facebook messenger button, phone button, email button, viber button, snapchat button, line button, intercom button
 Requires at least: 3.7
-Tested up to: 6.6.1
+Tested up to: 6.8.2
 Stable tag: 1.2.2
 Requires PHP: 5.6
 License: GPLv2 or later
